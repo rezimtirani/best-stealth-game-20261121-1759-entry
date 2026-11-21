@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  background: #0d0a12;
+  color: #f2ead8;
+  font-family: system-ui, sans-serif;
+  display: flex;
+  justify-content: center;
+}
+main {
+  padding: 16px;
+  text-align: center;
+}
+canvas {
+  display: block;
+  border: 2px solid #4d4258;
+  border-radius: 6px;
+  background: #211d2b;
+}
+.controls {
+  color: #b8ab8f;
+  font-size: 13px;
+  margin: 10px 0 0;
+}
